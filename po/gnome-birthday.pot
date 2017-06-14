@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-06-10 11:44+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../index.html:4(title)
+msgid "Happy Birthday GNOME"
+msgstr ""
+
+#: ../index.html:30(img:alt)
+msgid "GNOME logo"
+msgstr ""
+
+#: ../index.html:35(a)
+msgid "Timeline"
+msgstr ""
+
+#: ../index.html:36(a)
+msgid "People"
+msgstr ""
+
+#: ../index.html:37(a)
+msgid "Photos"
+msgstr ""
+
+#: ../index.html:38(a)
+msgid "Fun Facts"
+msgstr ""
+
+#: ../index.html:39(a)
+msgid "Donate"
+msgstr ""
+
+#: ../index.html:52(p)
+msgid "Happy Birthday GNOME!"
+msgstr ""
+
+#: ../index.html:53(p)
+msgid "The GNOME community is proud to celebrate 20 years of GNOME!"
+msgstr ""
+
+#: ../index.html:55(p)
+msgid "GNOME brings companies, volunteers, professionals, and non-profits together from around the world to create a complete free software solution for everyone. The GNOME community has had a memorable journey in doing so. Come together with us to celebrate the many people, projects, and developments that GNOME has seen over the last two decades!"
+msgstr ""
+
+#: ../index.html:58(p)
+msgid "Learn about the 20 year long history of GNOME"
+msgstr ""
+
+#: ../index.html:59(p)
+msgid "...GNOME Horizontal Timeline..."
+msgstr ""
+
+#: ../index.html:69(p)
+msgid "The GNOME community consists of hundreds of people worldwide, users and contributors alike."
+msgstr ""
+
+#: ../index.html:70(p)
+msgid "Thanks to the collaboration of people worldwide and particularly main contributors"
+msgstr ""
+
+#: ../index.html:76(p)
+msgid "Federico Mena Quintero"
+msgstr ""
+
+#: ../index.html:77(p) ../index.html:82(p) ../index.html:87(p) ../index.html:92(p) ../index.html:101(p) ../index.html:106(p) ../index.html:111(p) ../index.html:116(p) ../index.html:125(p) ../index.html:130(p) ../index.html:135(p) ../index.html:140(p) ../index.html:154(p) ../index.html:159(p) ../index.html:164(p) ../index.html:169(p) ../index.html:177(p) ../index.html:182(p) ../index.html:187(p) ../index.html:192(p) ../index.html:199(p)
+msgid "Role"
+msgstr ""
+
+#: ../index.html:81(p)
+msgid "Miguel de Icaza"
+msgstr ""
+
+#: ../index.html:86(p)
+msgid "Matthias Clasen"
+msgstr ""
+
+#: ../index.html:91(p)
+msgid "Emmanuele Bassi"
+msgstr ""
+
+#: ../index.html:100(p)
+msgid "Christian Herget"
+msgstr ""
+
+#: ../index.html:105(p)
+msgid "Cosimo Cecchi"
+msgstr ""
+
+#: ../index.html:110(p)
+msgid "Alex Larsson"
+msgstr ""
+
+#: ../index.html:115(p)
+msgid "Carlos Soriano"
+msgstr ""
+
+#: ../index.html:124(p)
+msgid "Allan Day"
+msgstr ""
+
+#: ../index.html:129(p)
+msgid "Bastian Ilso"
+msgstr ""
+
+#: ../index.html:134(p)
+msgid "Jakub Steiner"
+msgstr ""
+
+#: ../index.html:139(p)
+msgid "Bin Li"
+msgstr ""
+
+#: ../index.html:146(a)
+msgid "See More"
+msgstr ""
+
+#: ../index.html:153(p)
+msgid "Nuritzi Sanchez"
+msgstr ""
+
+#: ../index.html:158(p)
+msgid "Adelia Rahim"
+msgstr ""
+
+#: ../index.html:163(p)
+msgid "Julita Inca"
+msgstr ""
+
+#: ../index.html:168(p)
+msgid "Marina Zhurakhinskaya"
+msgstr ""
+
+#: ../index.html:176(p)
+msgid "Rosanna Yuen"
+msgstr ""
+
+#: ../index.html:181(p)
+msgid "Javier Jardon"
+msgstr ""
+
+#: ../index.html:186(p)
+msgid "Michael Catanzaro"
+msgstr ""
+
+#: ../index.html:191(p)
+msgid "Felipe Borges"
+msgstr ""
+
+#: ../index.html:198(p)
+msgid "Shobha Tyagi"
+msgstr ""
+
+#: ../index.html:210(p)
+msgid "We’ve been looking through old photos, remembering great times, and getting nostalgic."
+msgstr ""
+
+#: ../index.html:211(p)
+msgid "Stroll down memory lane with us as we relive some of our accomplishments!"
+msgstr ""
+
+#: ../index.html:213(p) ../index.html:214(p) ../index.html:215(p) ../index.html:216(p) ../index.html:217(p) ../index.html:218(p) ../index.html:231(p) ../index.html:232(p) ../index.html:233(p) ../index.html:234(p) ../index.html:235(p) ../index.html:236(p)
+msgid "..."
+msgstr ""
+
+#: ../index.html:228(p)
+msgid "Fun Facts about GNOME"
+msgstr ""
+
+#: ../index.html:230(p)
+msgid "Why do we call it GNOME? GNOME was initially an acronym of GNU Network Object Model Environment."
+msgstr ""
+
+#: ../index.html:246(p)
+msgid "Make a donation and become a Friend of GNOME!"
+msgstr ""
+
+#: ../index.html:247(p)
+msgid "Your donation will ensure that GNOME continues to be a free and open source desktop by providing resources to developers, software and education for end users, and promotion for GNOME worldwide."
+msgstr ""
+
+#: ../index.html:248(a)
+msgid "Donate to GNOME"
+msgstr ""
+
+#: ../index.html:260(p)
+msgid "© <a href=\"https://gnome.org\"> The GNOME Project</a>"
+msgstr ""
+
+#: ../index.html:263(p)
+msgid "Hosted by <a href=\"https://www.redhat.com/\" target=\"_blank\">Red Hat</a>."
+msgstr ""
+
+#: ../index.html:274(script)
+msgid "$('#contributors-toggle').on('click', function (event) { event.preventDefault(); $(\"#more-contributors\").toggleClass('hidden'); $(\"#contributors-toggle\").addClass('hidden'); });"
+msgstr ""
+
